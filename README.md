@@ -7,15 +7,15 @@
 ---
 emailSender.js
 
-1. mailtrap.io 
-2. nodemailer 사용 
-
+1. mailtrap.io -> https://mailtrap.io/
+2. nodemailer 사용 -> https://nodemailer.com/about/
+3. npm install nodemailer
 ---
 server.js
 
-3. npm install express --sava
-4. 페이지설정
-5. npm install mysql --sava
-6. 구글 -> mysql npm ->https://www.npmjs.com/package/mysql
-7. MariaDB 연동
+1. npm install express --sava
+2. 페이지 설정
+3. npm install mysql --sava
+4. 구글 -> mysql npm ->https://www.npmjs.com/package/mysql
+5. MariaDB 연동
  
