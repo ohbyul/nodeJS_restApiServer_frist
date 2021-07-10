@@ -22,7 +22,7 @@ var pool  = mysql.createPool({
   connectionLimit : 10,
   host            : 'localhost',    //3306 이 아니였음.. -> maria DB가 존재하는 서버 주소 
   user            : 'root',
-  password        : 'root',
+  password        : '디비 비번',
   database        : 'b_test'
 });
  

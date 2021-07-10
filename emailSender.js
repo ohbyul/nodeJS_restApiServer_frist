@@ -1,10 +1,10 @@
 const nodemailer = require("nodemailer");
 const email =  {
     host: "smtp.mailtrap.io",
-    port: 2525,
+    port: 00,
     auth: {
-      user: "5c881dfd1cea29",
-      pass: "0013494ffbee37"
+      user: "나의 mailtrap.io 정보임",
+      pass: "mailtrap.io 정보"
     }
 };
 
