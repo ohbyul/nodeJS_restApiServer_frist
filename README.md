@@ -19,10 +19,3 @@ server.js
 4. 구글 -> mysql npm ->https://www.npmjs.com/package/mysql
 5. MariaDB 연동
  
----
-log_test.js 
-
-1. winston 사용
-2. npm install winston
-3. config -> logger.js 생성
-4. logs 폴더 안에 실제 로거 찍힘
