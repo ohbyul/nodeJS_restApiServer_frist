@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\ohbyul_workspace\\script_workspaace\\nodeJS_restApiServer_frist-main\\nodeJS_restApiServer_frist-main\\logs\\.b4f8727e34d05ce2cd501761648bd24abaa83362-audit.json",
+    "files": [
+        {
+            "date": 1626060074183,
+            "name": "C:\\ohbyul_workspace\\script_workspaace\\nodeJS_restApiServer_frist-main\\nodeJS_restApiServer_frist-main\\logs\\2021-07-12.log",
+            "hash": "e5bcd1c728ed81e4ddc0a9d15d9b06f3"
+        }
+    ]
+}
